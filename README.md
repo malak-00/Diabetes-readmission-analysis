@@ -51,13 +51,13 @@ Three-page Power BI dashboard:
 ### 📸 Dashboard Screenshots
 
 **Page 1 — Executive Overview**
-![Executive Overview](images/dashboard_1_executive_overview.png)
+![Executive Overview](images/Dashboard_1.png)
 
 **Page 2 — Clinical Risk Factors**
-![Clinical Risk Factors](images/dashboard_2_clinical_risk_factors.png)
+![Clinical Risk Factors](images/Dashboard_2.png)
 
 **Page 3 — Demographics & Testing Patterns**
-![Demographics & Testing Patterns](images/dashboard_3_demographics_testing.png)
+![Demographics & Testing Patterns](images/Dashboard_3.png)
 
 **KPI:** 30-Day Readmission Rate, target **10%** (based on general CMS HRRP-style benchmarks). Overall rate: **10.99%** — near target in aggregate, but concentrated risk in specific subgroups (high prior utilization, high glucose) running 2–3x above target.
 
